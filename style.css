@@ -17,7 +17,8 @@
 .container ul li {
 
     list-style: none;
-    border-style: solid;
+    color: rgb(37, 37, 37)
+   
 
 
 
@@ -28,7 +29,7 @@
 
 .container ul li a {
 
-    text-decoration: black;
+    text-decoration: rgb(185, 27, 27);
 
 }
 
