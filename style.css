@@ -119,13 +119,13 @@ footer button {
 
     font-family: "Roboto";
 
-    color: black;
+    color: rgb(88, 87, 87);
 
     line-height: 1.2;
 
     border-width: 1px;
 
-    border-color: none;
+    border-color: rgb(194, 194, 194);
 
     border-style: solid;
 
