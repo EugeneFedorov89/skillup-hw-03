@@ -16,7 +16,8 @@
 
 .container ul li {
 
-    list-style: green;
+    list-style: none;
+    border-style: solid;
 
 
 
